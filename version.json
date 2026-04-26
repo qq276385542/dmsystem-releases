@@ -1,10 +1,10 @@
 {
-  "version": "5.2.3",
-  "release_date": "2026-04-26",
-  "download_url": "https://github.com/qq276385542/dmsystem-releases/releases/download/v5.2.3/DMSystem_Setup_v5.2.3.exe",
-  "changelog": "V5.2.3 更新内容:\n1. 取消增量更新，简化为完整安装包模式，强制更新\n2. 碎部加密后数据库同步，确保导出包含加密成果\n3. 批量导出前自动保存当前编辑数据\n4. 修复纵断面预览图断面线折叠问题（按里程排序）\n5. 修复横断成果CSV导出断面内偏距乱序问题（按偏距由负到正排序）\n6. 更新渠道统一GitHub，Gitee自动同步旧版用户",
+  "version": "5.2.4",
+  "release_date": "2026-04-27",
+  "download_url": "https://github.com/qq276385542/dmsystem-releases/releases/download/v5.2.4/DMSystem_Setup_v5.2.4.exe",
+  "changelog": "V5.2.4: 成果报告拼音排序、纵断面预览修复、横断CSV偏距排序、复选框联动修复",
   "force_update": true,
-  "file_size": 177300545,
+  "file_size": 177276250,
   "pan_url": "",
   "pan_code": ""
 }
