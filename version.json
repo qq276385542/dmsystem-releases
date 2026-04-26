@@ -1,7 +1,7 @@
 {
   "version": "5.2.4",
   "release_date": "2026-04-27",
-  "download_url": "https://github.com/qq276385542/dmsystem-releases/releases/download/v5.2.4/DMSystem_Setup_v5.2.4.exe",
+  "download_url": "",
   "changelog": "V5.2.4: 应用内分片下载更新、成果报告拼音排序、纵断面预览修复、横断CSV偏距排序、复选框联动修复",
   "force_update": true,
   "file_size": 177316198,
