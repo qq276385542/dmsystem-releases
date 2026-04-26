@@ -2,14 +2,20 @@
   "version": "5.2.3",
   "release_date": "2026-04-26",
   "download_url": "https://github.com/qq276385542/dmsystem-releases/releases/download/v5.2.3/DMSystem_Setup_v5.2.3.exe",
-  "changelog": "V5.2.3 更新内容:\\n1. 碎部加密后导出数据文件包含加密成果\\n2. 批量导出数据表前保存编辑数据\\n3. 增量更新下载完成后点确认正常重启\\n4. 检查更新404错误修复\\n5. 更新渠道统一切换到GitHub",
+  "changelog": "V5.2.3: 碎部加密导出修复、增量更新修复、渠道统一GitHub",
   "min_version": "",
   "force_update": false,
   "file_size": 177298815,
   "file_name": "DMSystem_Setup_v5.2.3.exe",
-  "update_mode": "full",
-  "manifest_url": "",
-  "update_packages": {},
+  "update_mode": "incremental",
+  "manifest_url": "https://github.com/qq276385542/dmsystem-releases/releases/download/v5.2.3/manifest.json",
+  "update_packages": {
+    "5.2.1": {
+      "url": "https://github.com/qq276385542/dmsystem-releases/releases/download/v5.2.3/update_5.2.1_to_5.2.3.zip",
+      "size": 150132340,
+      "hash": "dd2b5495ca616a0a076bb013523d9956912cb88c5e2769c44b3c98ccd3abcdf9"
+    }
+  },
   "full_package_url": "https://github.com/qq276385542/dmsystem-releases/releases/download/v5.2.3/DMSystem_Setup_v5.2.3.exe",
   "pan_url": "",
   "pan_code": ""
