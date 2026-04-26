@@ -6,5 +6,18 @@
   "force_update": true,
   "file_size": 177316198,
   "pan_url": "",
-  "pan_code": ""
+  "pan_code": "",
+  "chunks": [
+    {
+      "url": "https://gitee.com/xmjxznld/dmsystem-releases/releases/download/v5.2.4/DMSystem_Setup_v5.2.4.exe.part1",
+      "size": 103809024,
+      "sha256": "e209a23b9d438b237fade21162f40dea5aca3c8f605ba91a3a37f250fb254fee"
+    },
+    {
+      "url": "https://gitee.com/xmjxznld/dmsystem-releases/releases/download/v5.2.4/DMSystem_Setup_v5.2.4.exe.part2",
+      "size": 73507174,
+      "sha256": "eea06ab95ee9e553c48d435ef14db751d045c411390cb4957d18751bffdff64c"
+    }
+  ],
+  "file_sha256": "4089938bb32a3bfb091378c3d9c642a341073db4c09f59a58f538315468de804"
 }
