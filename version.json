@@ -10,10 +10,10 @@
   "update_mode": "incremental",
   "manifest_url": "https://github.com/qq276385542/dmsystem-releases/releases/download/v5.2.3/manifest.json",
   "update_packages": {
-    "5.2.1": {
-      "url": "https://github.com/qq276385542/dmsystem-releases/releases/download/v5.2.3/update_5.2.1_to_5.2.3.zip",
+    "5.2.2": {
+      "url": "https://github.com/qq276385542/dmsystem-releases/releases/download/v5.2.3/update_5.2.2_to_5.2.3.zip",
       "size": 150132340,
-      "hash": "dd2b5495ca616a0a076bb013523d9956912cb88c5e2769c44b3c98ccd3abcdf9"
+      "hash": "31ed12b8fb8de5a2c1d8b3a81bd34ea26c8c972e167ebb0f9bc45a14a0426eec"
     }
   },
   "full_package_url": "https://github.com/qq276385542/dmsystem-releases/releases/download/v5.2.3/DMSystem_Setup_v5.2.3.exe",
