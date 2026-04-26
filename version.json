@@ -1,0 +1,22 @@
+{
+  "version": "5.2.2",
+  "release_date": "2026-04-26",
+  "download_url": "https://github.com/qq276385542/dmsystem-releases/releases/download/v5.2.2/DMSystem_Setup_v5.2.2.exe",
+  "changelog": "V5.2.2 更新内容:\n1. 单独导出纵断面图CAD时自动加载纵断注记\n2. 修复纵断注记折线方向错误，确保注记始终在断面线上方\n3. 注记压盖改为向上堆叠，层间距加大\n4. 纵断图桩号范围合并注记数据取最大范围\n5. 图框高度动态调整防止表格与图形压盖\n6. 修复Mixin拆分后导入缺失问题",
+  "min_version": "",
+  "force_update": false,
+  "file_size": 177301510,
+  "file_name": "DMSystem_Setup_v5.2.2.exe",
+  "update_mode": "incremental",
+  "manifest_url": "https://github.com/qq276385542/dmsystem-releases/releases/download/v5.2.2/manifest.json",
+  "update_packages": {
+    "5.2.1": {
+      "url": "https://github.com/qq276385542/dmsystem-releases/releases/download/v5.2.2/update_5.2.1_to_5.2.2.zip",
+      "size": 147597856,
+      "hash": "14496c52ae39a3b39dd4eb64420f1380b5a8777656c91b4957121e83b99aab72"
+    }
+  },
+  "full_package_url": "https://github.com/qq276385542/dmsystem-releases/releases/download/v5.2.2/DMSystem_Setup_v5.2.2.exe",
+  "pan_url": "",
+  "pan_code": ""
+}
