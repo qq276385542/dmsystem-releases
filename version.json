@@ -1,23 +1,22 @@
 {
-  "version": "5.2.4",
-  "release_date": "2026-04-27",
-  "download_url": "",
-  "changelog": "V5.2.4: 应用内分片下载更新、成果报告拼音排序、纵断面预览修复、横断CSV偏距排序、复选框联动修复",
-  "force_update": true,
-  "file_size": 177316198,
-  "pan_url": "",
-  "pan_code": "",
-  "chunks": [
-    {
-      "url": "https://gitee.com/xmjxznld/dmsystem-releases/releases/download/v5.2.4/DMSystem_Setup_v5.2.4.exe.part1",
-      "size": 103809024,
-      "sha256": "e209a23b9d438b237fade21162f40dea5aca3c8f605ba91a3a37f250fb254fee"
-    },
-    {
-      "url": "https://gitee.com/xmjxznld/dmsystem-releases/releases/download/v5.2.4/DMSystem_Setup_v5.2.4.exe.part2",
-      "size": 73507174,
-      "sha256": "eea06ab95ee9e553c48d435ef14db751d045c411390cb4957d18751bffdff64c"
+  "version": "7.0.0",
+  "release_date": "2026-07-29",
+  "download_url": "https://ghp.ci/https://github.com/qq276385542/dmsystem-releases/releases/download/v7.0.0/update_5.2.3_to_7.0.0.zip",
+  "changelog": "V7.0.0更新: 修复起始桩号重新打开工程后不生效; 修复DXF CADIMAGE实体导入崩溃; 修复导入提取数据后提取模块数据丢失; 修复Tab切换导致提取模块数据丢失; 最近工程列表增加创建时间; 提取模块文件路径完整保存与恢复",
+  "min_version": "",
+  "force_update": false,
+  "file_size": 173313153,
+  "file_name": "update_5.2.3_to_7.0.0.zip",
+  "update_mode": "incremental",
+  "manifest_url": "https://ghp.ci/https://github.com/qq276385542/dmsystem-releases/releases/download/v7.0.0/manifest.json",
+  "update_packages": {
+    "5.2.3": {
+      "url": "https://ghp.ci/https://github.com/qq276385542/dmsystem-releases/releases/download/v7.0.0/update_5.2.3_to_7.0.0.zip",
+      "size": 173313153,
+      "hash": "be2fe2b6564153cf3f0147ef94ec382a2bff2424c18938043bcfde745b72f056"
     }
-  ],
-  "file_sha256": "4089938bb32a3bfb091378c3d9c642a341073db4c09f59a58f538315468de804"
+  },
+  "full_package_url": "https://pan.baidu.com/s/16eMndUAxFIKkN5RuBodQaA?pwd=0428",
+  "pan_url": "https://pan.baidu.com/s/16eMndUAxFIKkN5RuBodQaA?pwd=0428",
+  "pan_code": "0428"
 }
