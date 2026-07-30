@@ -1,19 +1,19 @@
 {
-  "version": "7.0.0",
-  "release_date": "2026-07-29",
-  "download_url": "https://ghp.ci/https://github.com/qq276385542/dmsystem-releases/releases/download/v7.0.0/update_5.2.3_to_7.0.0.zip",
-  "changelog": "V7.0.0更新: 修复起始桩号重新打开工程后不生效; 修复DXF CADIMAGE实体导入崩溃; 修复导入提取数据后提取模块数据丢失; 修复Tab切换导致提取模块数据丢失; 最近工程列表增加创建时间; 提取模块文件路径完整保存与恢复",
+  "version": "7.0.1",
+  "release_date": "2026-07-30",
+  "download_url": "https://ghp.ci/https://github.com/qq276385542/dmsystem-releases/releases/download/v7.0.1/update_7.0.0_to_7.0.1.zip",
+  "changelog": "V7.0.1 更新内容:\n1. 功能优化\n2. 修复已知问题",
   "min_version": "",
   "force_update": false,
-  "file_size": 173313153,
-  "file_name": "update_5.2.3_to_7.0.0.zip",
+  "file_size": 157261383,
+  "file_name": "update_7.0.0_to_7.0.1.zip",
   "update_mode": "incremental",
-  "manifest_url": "https://ghp.ci/https://github.com/qq276385542/dmsystem-releases/releases/download/v7.0.0/manifest.json",
+  "manifest_url": "https://ghp.ci/https://github.com/qq276385542/dmsystem-releases/releases/download/v7.0.1/manifest.json",
   "update_packages": {
-    "5.2.3": {
-      "url": "https://ghp.ci/https://github.com/qq276385542/dmsystem-releases/releases/download/v7.0.0/update_5.2.3_to_7.0.0.zip",
-      "size": 173313153,
-      "hash": "be2fe2b6564153cf3f0147ef94ec382a2bff2424c18938043bcfde745b72f056"
+    "7.0.0": {
+      "url": "https://ghp.ci/https://github.com/qq276385542/dmsystem-releases/releases/download/v7.0.1/update_7.0.0_to_7.0.1.zip",
+      "size": 157261383,
+      "hash": "5580de4e10d25a600264bde29d21a7c92831129a8eaa4d41db56c4f5f194206d"
     }
   },
   "full_package_url": "https://pan.baidu.com/s/16eMndUAxFIKkN5RuBodQaA?pwd=0428",
