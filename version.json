@@ -18,5 +18,18 @@
   },
   "full_package_url": "https://pan.baidu.com/s/16eMndUAxFIKkN5RuBodQaA?pwd=0428",
   "pan_url": "https://pan.baidu.com/s/16eMndUAxFIKkN5RuBodQaA?pwd=0428",
-  "pan_code": "0428"
+  "pan_code": "0428",
+  "chunks": [
+    {
+      "url": "https://gitee.com/xmjxznld/dmsystem-releases/releases/download/v7.0.1/DMSystem_Setup_v7.0.1.exe.part1",
+      "size": 103809024,
+      "sha256": "491652a8c9edbf50916964ded4ccebc554bea16060fa03625607463ee6121535"
+    },
+    {
+      "url": "https://gitee.com/xmjxznld/dmsystem-releases/releases/download/v7.0.1/DMSystem_Setup_v7.0.1.exe.part2",
+      "size": 84690892,
+      "sha256": "597294a57d424f8671069d03785e08e1ed8daba2f51d20c865cb45b4d12f2dcb"
+    }
+  ],
+  "file_sha256": "cd7ede414169a57f4a1577a0f03d2cd984942cf58fa2be4afef9515a54d2299f"
 }
